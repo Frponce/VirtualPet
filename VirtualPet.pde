@@ -45,6 +45,6 @@ ellipse(300,335,52,70);
 
 //questionable
 noFill();
-arc(305,360,60,40,0,PI/3);
+arc(305,360,60,40,0,PIE/3);
 
 //Make arms with arcs and or ellipse
