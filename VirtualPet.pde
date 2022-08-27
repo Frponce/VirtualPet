@@ -1,7 +1,7 @@
 
 size(600,600);
 
-background(225,225,225);
+
 
 
 
@@ -59,7 +59,7 @@ fill(190,190,190);
 
 //questionable
   noFill();
-    arc(305,360,60,40,0,PIE/3);
+    arc(305,360,60,40,0);
     
 //Top hat
 
