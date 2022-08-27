@@ -1,3 +1,10 @@
+
+size(600,600);
+
+background(225,225,225);
+
+
+
 //Lower Body
 fill(190,190,190);
   ellipse(300,450,135,129);
